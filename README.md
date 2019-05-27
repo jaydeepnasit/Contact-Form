@@ -5,7 +5,8 @@ Contact Form in PHP with MYSQL Database ( Client Side + Server Side Validation +
 * Full Responsive
 * Client Side Validation (JQUERY)
 * Server Side Validation (PHP)
-* Supported With All Browser
+* Supported With All Browsers
+* Easy To Use
 * Simple & Clean Design
 * Fully Customizable Validations
 
