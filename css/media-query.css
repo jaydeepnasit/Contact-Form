@@ -1,0 +1,18 @@
+/* Medium devices (tablets, 768px and up) */
+@media (max-width: 768px) { 
+    .contact-field-sub{
+        width: 100%;
+    }  
+    .primary-field{
+        width: 88%;
+    } 
+    .contact-field-msg-sub{
+        padding: 5px 4px;
+    }
+}
+@media (max-width: 992px) {
+    .contact-area{
+        width: 95%;
+        padding: 20px;
+    }  
+ }
